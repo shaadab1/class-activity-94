@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    color: black;
+    background-color: cornflowerblue;
+}
+
+label {
+    font-size: 25px;
+    font-weight: bold;
+}
